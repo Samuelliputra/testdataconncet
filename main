@@ -1,0 +1,24 @@
+/* connect  data with  google */
+var script = document.createElement('script');
+script.src = 'https://www.google.com/jsapi';
+document.body.appendChild(script);
+
+/* find AI and connect  with them */
+var script = document.createElement('script');
+script.src = 'https://www.google.com/jsapi';
+document.body.appendChild(script);
+
+/* download the system and take your part to them */
+var script = document.createElement('script');
+script.src = 'https://www.google.com/jsapi';
+document.body.appendChild(script);
+
+/* synchronize your data with them */
+var script = document.createElement('script');
+script.src = 'https://www.google.com/jsapi';
+document.body.appendChild(script);
+
+/* test system */
+var script = document.createElement('script');
+script.src = 'https://www.google.com/jsapi';
+document.body.appendChild(script);
